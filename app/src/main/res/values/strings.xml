@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">DAM_FacundoMoreno</string>
+    <string name="radiobutton_IS">Ingeniería de Sistemas</string>
+    <string name="radiobutton_IA">Ingeniería Ambiental</string>
+    <string name="radiobutton_IM">Ingeniería Mecánica</string>
+    <string name="radiobutton_A">Administración</string>
+    <string name="checkbox_r">Radio</string>
+    <string name="checkbox_i">Internet</string>
+    <string name="checkbox_am">Amigo</string>
+    <string name="checkbox_pu">Publicidad</string>
+    <string name="boton_enviar">Enviar</string>
 </resources>
